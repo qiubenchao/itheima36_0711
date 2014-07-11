@@ -5,7 +5,9 @@ class  MoMo
 		if(点击按钮){
 			System.out.println("给你一个好友约会去吧");
 		}
-		
+		if(摇一摇){
+			System.out.println("给你一个好友约会去吧");
+		}
 	}
 }
 
