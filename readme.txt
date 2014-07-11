@@ -1,1 +1,12 @@
-我是一个普通开发人员，我想向github提交代码，但是没有权限，我生成补丁给主开发者处理
+class  MoMo
+{
+	public static void main(String[] args) 
+	{
+		if(点击按钮){
+			System.out.println("给你一个好友约会去吧");
+		}
+		
+	}
+}
+
+
